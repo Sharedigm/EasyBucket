@@ -1,6 +1,6 @@
 <p align="center">
   <div align="center">
-    <img src="./images/logos/sharedigm-icon.svg" alt="Logo" style="width:25%">
+    <img src="./images/logos/icon.svg" alt="Logo" style="width:25%">
   </div>
 </p>
 
