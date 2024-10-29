@@ -60,7 +60,7 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<a class="unstyled" href="#features/integrated-design">
-					<h2><i class="fa fa-network-wired"></i>Integrated</h2>
+					<h2><i class="fa fa-network-wired"></i>Integrated Design</h2>
 					<p>The integrated design makes it efficient to use because sharing is integrated throughout the system and apps and the apps work seamlessly together. </p>
 				</a>
 			</div>
@@ -85,22 +85,6 @@
 					<a href="images/info/desktop/iphone-desktop.png" target="_blank" class="lightbox" title="<%= application.name %> Mobile"><img src="images/info/desktop/iphone-desktop.png" /></a>
 					<div class="caption"><%= application.name %> Mobile</div>
 				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="section">
-		<div class="row">
-			<div class="col-sm-6">
-				<h2><i class="fa fa-code"></i>Web Postable</h2>
-				<p>You can <a href="#features/web-postable">post and view</a> files that have been uploaded to <%= application.name %> on other websites easily with just a bit of HTML code. </p>
-			</div>
-			<div class="col-sm-6">
-				<a href="#features/web-postable">
-					<div class="code well">
-		&lt;iframe src="YOUR FILE LINK HERE"&gt;&lt;/iframe&gt
-					</div>
-				</a>
 			</div>
 		</div>
 	</div>

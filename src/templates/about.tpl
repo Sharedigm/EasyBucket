@@ -6,12 +6,12 @@
 
 <div class="content">
 	<div style="display:none; margin:20px; text-align:center">
-		<img width="150" src="images/logos/logo.svg" />
+		<img width="150" src="images/logos/zigzag.svg" />
 	</div>
 
-	<p><%= application.name %> is a cloud based operating system and sharing platform.  It combines the power of the cloud with the familiar look and feel of your favorite desktop or mobile operating system! </p>
+	<p><%= application.name %> combines the capacity of S3 with the familiar look and feel of your desktop or mobile OS. <%= application.name %> makes S3 simple.</p>
 
-	<div class="attention"><div class="emphasis"><%= application.name %> = <br />Cloud OS + <br />Familiar Look and Feel!</div></div>
+	<div class="attention"><div class="emphasis"><%= application.name %> = <br />S3 Capacity + <br />Familiar Look and Feel!</div></div>
 
 	<div class="details section">
 		<div class="row">
