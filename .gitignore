@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 .jupyter/
 log/
-config/
+private/
 backups/
 electron/
 *.swp

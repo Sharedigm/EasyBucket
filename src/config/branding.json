@@ -1,0 +1,219 @@
+{
+	"name": "EasyBucket",
+	"title": "EasyBucket",
+
+	"header": {
+		"background": "",
+		"color": "",
+
+		"brand": {
+			"logo": {
+				"src": "images/logos/logo.svg",
+				"border": "rounded"
+			},
+
+			"logotype": {
+				"names": {
+					"Easy": {
+						"color": "hsl(30, 100%, 66%)"
+					}, 
+					"Bucket": {
+						"color": "hsl(20, 100%, 50%)"
+					}, 
+					".org": {
+					}
+				}
+			}
+		},
+
+		"nav": {
+			"About": {
+				"icon": "fa fa-info-circle",
+				"href": "#about"
+			},
+			"Uses": {
+				"icon": "fa fa-user-circle",
+				"href": "#uses"
+			},
+			"Features": {
+				"icon": "fa fa-lightbulb",
+				"href": "#features"
+			},
+			"Apps": {
+				"icon": "fa fa-rocket",
+				"href": "#apps"
+			}
+		},
+
+		"buttons": {
+			"Sign In": {
+				"icon": "fa fa-sign-in-alt",
+				"background": "",
+				"font": "",
+				"color": ""
+			},
+			"Sign Up": {
+				"icon": "fa fa-pencil-alt",
+				"background": "",
+				"font": "",
+				"color": ""
+			}
+		}
+	},
+
+	"welcome": {
+		"template": "templates/welcome.tpl",
+		"background": "linear-gradient(to bottom, hsla(30, 100%, 66%, 0%) 0%, hsla(30, 100%, 66%, 33%) 100%)",
+
+		"carousel": {
+			"template": "templates/welcome/carousel.tpl"
+		},
+
+		"splash": {
+			"background": "transparent",
+			"brand": {
+				"logo": {
+					"src": "images/logos/logo.svg",
+					"border": "rounded"
+				},
+
+				"logotype": {
+					"names": {
+						"Easy": {
+							"color": "hsl(30, 100%, 66%)"
+						}, 
+						"Bucket": {
+							"color": "hsl(20, 100%, 50%)"
+						}, 
+						".org": {
+							"font_size": "50%"
+						}
+					}
+				}
+			},
+
+			"tagline": {
+				"text": "For S3 Cloud Storage",
+				"font": "Syncopate",
+				"font_weight": "bold",
+				"color": "rgb(255, 85, 0)"
+			},
+
+			"description": {
+				"text": "Easy to use web interface for S3 file storage, management, and sharing."
+			}
+		}
+	},
+
+	"page":{
+		"background": "",
+		"theme": "",
+
+		"heading1": {
+			"color": "rgb(255, 85, 0)"
+		},
+		"heading2": {
+			"color": "rgb(255, 85, 0)"
+		},
+		"heading3": {
+			"color": "rgb(255, 85, 0)"
+		},
+
+		"footer": {
+			"background": "hsla(30, 100%, 66%, 25%)",
+			"color": null,
+
+			"brand": {
+				"logo": {
+					"src": "images/logos/logo.svg",
+					"href": "#",
+					"border": "rounded"
+				},
+				"logotype": {
+					"names": {
+						"Easy": {
+							"color": "hsl(30, 100%, 66%)"
+						}, 
+						"Bucket": {
+							"color": "hsl(20, 100%, 50%)"
+						}, 
+						".org": {
+							"font_size": "50%"
+						}
+					}
+				}
+			},
+
+			"info": {
+				"Explore": {
+					"icon": "fa fa-search",
+					"links": {
+						"About": {
+							"icon": "fa fa-info-circle",
+							"href": "#about"
+						},
+						"Uses": {
+							"icon": "fa fa-user-circle",
+							"href": "#uses"
+						},
+						"Features": {
+							"icon": "fa fa-lightbulb",
+							"href": "#features"
+						},
+						"Apps": {
+							"icon": "fa fa-rocket",
+							"href": "#apps"
+						}
+					}
+				},
+
+				"Policies": {
+					"icon": "fa fa-gavel",
+					"links": {
+						"Privacy": {
+							"icon": "fa fa-file-alt",
+							"href": "#policies/privacy-policy"
+						},
+						"User Data": {
+							"icon": "fa fa-file-alt",
+							"href": "#policies/user-data-policy"
+						},
+						"Terms of Use": {
+							"icon": "fa fa-file-alt",
+							"href": "#policies/terms-of-use"
+						},
+						"Code of Conduct": {
+							"icon": "fa fa-file-alt",
+							"href": "#policies/code-of-conduct"
+						}
+					}
+				},
+
+				"Help": {
+					"icon": "fa fa-question-circle",
+					"links": {
+						"User Guide": {
+							"icon": "fa fa-book",
+							"href": "#help"
+						},
+						"Contact Us": {
+							"icon": "fa fa-envelope",
+							"href": "#contact"
+						}
+					}
+				}
+			}
+		}
+	},
+
+	"footer": {
+		"background": "hsl(20, 100%, 50%)",
+		"color": "white",
+		"copyright": {
+			"year": "2024",
+			"entity": "EasyBucket",
+			"logo": null,
+			"url": "http://datascience.wisc.edu"
+		}
+	}
+}
