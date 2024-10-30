@@ -6,4 +6,3 @@ private/
 backups/
 electron/
 *.swp
-.env
