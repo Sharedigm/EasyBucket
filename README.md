@@ -14,44 +14,41 @@ Welcome Screen
 ![Screen Shot](images/screen-shots/desktop.png)
 Desktop
 
-## Requirements
+## Features
 
-### 1. PHP 8.1+
+- Easy and intuitive user interface.
+- Store, manage, and view photos and videos.
+- Listen to audio and podcasts.
+- Run a variety of apps.
+- Customizable - by users and site administrators.
+- Platform independent - desktop or mobile.
+- Self-hostable - run on your own server.
 
-The back end code is built upon Laravel10 which relies upon PHP 8.1 or later.
+## Benefits
 
-### 2. Web Server
+- Manage and your data, documents, photos, music, code and more.
+- Allow sharing of your S3 data without sharing your S3 credentials.
+- Share data with friends, family, and colleagues.
+- Take control of your data.
+- Use inexpensive S3 storage to backup your digital life.
+- Retain a familiar desktop user experience. 
 
-This application requires Apache or another similar web server.
+## Live Demo
 
-### 2. SQL Database
-
-SQL is used for storing user, authentication, and academic information.
+You can create an account and explore the features and benefits of the platform at [easybucket.org](https://easybucket.org).
 
 ## Installation
 
-Please follow the instructions in [documentation/INSTALL.md](documentation/INSTALL.md) to install the software on your web server.   If you would like some pointers for configuring your web server, see:  [documentation/CONFIG.md](documentation/CONFIG.md).
+Please follow the instructions in [easybucket.org/#installation](https://easybucket.org/#installation) to install the software on your computer or web server.
 
-## Using the Platform
+## Instructions
 
-An extensive [User Guide](https://www.sharedigm.com/#help) is available that explains the system from a user perspective.  It covers numerous aspects of the system including:
+See the [EasyBucket User Guide](https://easybucket.org/#help) for instructions on how to use the platform.
 
-- account creation and deletion
-- password management and recovery
-- user profile creation and management
-- file uploading, management, and sharing
-- social media posting and direct messaging
-- photo viewing and sharing
-- music / audio playing
-- changing system settings and preferences
-- theming and customization
-
-<!-- LICENSE -->
 ## License
 
-Distributed under the Sustainable Use License which allows urestricted use of the software but does not allow you to commercialize it. See [LICENSE.md](LICENSE.md) for more information.
+Distributed under the <a href="https://indiesource.org/">IndieSource License</a> which allows unrestricted use of the software except by very large corporations. See [LICENSE.md](LICENSE.md) for more information.
 
-<!-- CONTACT -->
 ## Contact
 
-Abe Megahed - (mailto:amegahed@wisc.edu) - email
+mailto:admin@easybucket.org
